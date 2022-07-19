@@ -1,4 +1,4 @@
-## hi😁 my name is Vinícius
+## Hi,😁! My name is Vinícius!
 
 <div align="center">
   <a href="https://github.com/VINNICIUSDev">
