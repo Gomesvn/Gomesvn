@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=832EFD&height=120&section=header"/>
-
+<img width=100% src="https://github.com/Gomesvn/Gomesvn/blob/main/Capa%20Github.png"/>
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E89D11&size=35&center=true&vCenter=true&width=1000&lines=console.log+("Hi,+My+name+is+Vinícius!");I'm+18+years+old;I'm+from+Brazil;I+Cursing+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gomesvn&bg_color=0d1117&color=F09B15&line=E89D11&point=F09B15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -21,6 +21,7 @@
 <a href="https://instagram.com/vinnicius_damascena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:cmp.1a.vinicius.damascena.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+ -->
  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=F24403&labelColor=0D1117)&nbsp;
@@ -35,11 +36,13 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vinniciusdev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gomesvn}/count.svg"/></p> 
 <br>
 </div>
+-->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=832EFD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383FFC&height=120&section=footer"/>
