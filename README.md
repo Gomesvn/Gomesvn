@@ -7,12 +7,12 @@
 
 &nbsp;
  
-`pt-BR:` Formado no ensino médio em tecnologia da informação. Cursando atualmente ciência da computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará . Atuo como freelancer e desenvolvedor fullstack JS. Tenho conhecimentos em javascript, typescript, css, react, styled-components ,nodejs, express, prisma, mysql, mongodb, postgres. Trabalho seguindo os design patterns. Adoro programação e computadores, meu objetivo é ajudar o mundo com isso. 
+`pt-BR:` Formado no ensino médio em tecnologia da informação. Cursando atualmente ciência da computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará . Atuo como freelancer e desenvolvedor fullstack JS. Tenho conhecimentos em javascript, typescript, nodejs, express, prisma, mysql, mongodb, postgresql, git, github, css, react, styled-components, material-ui. Trabalho seguindo os design patterns. Adoro programação e computadores, meu objetivo é ajudar o mundo com isso. 
 
 &nbsp;
 ------------------------------------------------------
 
-`en-US:` Graduated from high school in information technology. Currently studying computer science at the Federal Institute of Education, Science and Technology of Ceará. I work as a freelancer and fullstack JS developer. I have knowledge in javascript, typescript, css, react, styled-components, nodejs, express, prisma, mysql, mongodb, postgres. I work following design standards. I love programming and computers, my goal is to help the world with this.
+`en-US:` Graduated from high school in information technology. Currently studying computer science at the Federal Institute of Education, Science and Technology of Ceará. I work as a freelancer and fullstack JS developer. I have knowledge in javascript, typescript, nodejs, express, prisma, mysql, mongodb, postgresql, git, github, css, react, styled-components, material-ui. I work following design patterns. I love programming and computers, my goal is to help the world with this.
 
 
 &nbsp;
