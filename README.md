@@ -46,7 +46,7 @@ salutation("Vinicius", "welcome to my world!");
 
 <div>
 <span>
-<a href="www.linkedin.com/in/vinícius-gomes-64748629a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vinícius-gomes-64748629a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href = "mailto:cmp.1a.vinicius.damascena.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </span>
 </div>
